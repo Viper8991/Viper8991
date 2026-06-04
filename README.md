@@ -4,7 +4,7 @@ I am a Full Stack Developer passionate about building robust web applications, m
 
 - 🛠️ Currently working on: **Team Task Manager** & **Personal Portfolio**
 - 🚀 Tech Stack: React, Vite, Node.js, Express, Prisma, SQL, and TailwindCSS
-- ✉️ Reach me at: roya69516@example.com
+- ✉️ Reach me at: roya69516@gmail.com
 - 🌐 Portfolio: https://aniketranjanroy.vercel.app/
 
 ### 🛠️ Languages & Tools
