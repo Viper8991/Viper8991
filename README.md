@@ -26,5 +26,26 @@ An interactive, real-time collaboration and project management board featuring l
     *   ✔️ **Dynamic Notification Hub**: Instantly updates team members upon task assignment with automatic close on navigation.
     *   ✔️ **Polished Responsiveness**: Sleek glassmorphism style that adapts perfectly from desktop monitors to mobile displays.
 *   **Repository**: [github.com/Viper8991/team-task-manager](https://github.com/Viper8991/team-task-manager)
+### 🛠️ Featured Project: Tooloose (Next.js SaaS Platform)
+
+A highly advanced Next.js web application utilizing AI integration, payment gateways, and real-time user notification pipelines.
+
+*   **Tech Stack**: Next.js (App Router), TypeScript, Mongoose (MongoDB), Framer Motion, and TailwindCSS.
+*   **Key Features**:
+    *   ✔️ **Dual Payment Gateways**: Integrated Stripe and Razorpay systems for global and localized secure checkouts.
+    *   ✔️ **AI Assistant**: Powered by Groq SDK for ultra-fast, intelligent system recommendations.
+    *   ✔️ **Interactive 3D Visuals**: Incorporates Three.js for interactive, premium 3D graphics.
+    *   ✔️ **Communication & Push Alerting**: Supported by Twilio SMS and Web-Push for real-time customer alerts.
+*   **Repository**: [github.com/Viper8991/too-loose](https://github.com/Viper8991/too-loose)
+### 🏠 Featured Project: Airbnb Clone
+
+A fully responsive vacation rental marketplace allowing users to browse, search, list properties, and place reservations.
+
+*   **Tech Stack**: React / Next.js, TailwindCSS, Node.js, Express, and MongoDB.
+*   **Key Features**:
+    *   ✔️ **Advanced Search Filter**: Filter properties by location, date range, number of guests, and categories.
+    *   ✔️ **Property Listing Management**: Allows hosts to upload images, set pricing, and write detailed descriptions.
+    *   ✔️ **Reservation & Booking System**: Interactive calendar booking system preventing overlapping reservations.
+*   **Repository**: [github.com/Viper8991/airbnb-clone](https://github.com/Viper8991/airbnb-clone)
 
 
