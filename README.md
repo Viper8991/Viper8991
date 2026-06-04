@@ -17,4 +17,5 @@ I am a Full Stack Developer passionate about building robust web applications, m
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### 📈 GitHub Stats
-![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Viper8991&show_icons=true&theme=radial)
+![Aniket's GitHub Stats](https://github-readme-stats.shion.dev/api?username=Viper8991&show_icons=true&theme=radial)
+
